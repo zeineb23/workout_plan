@@ -13,11 +13,21 @@ This repository contains two Jupyter notebooks for generating workout plans and 
 The **WorkoutPlan.ipynb** notebook provides functionality to generate a personalized workout plan. It prompts the user to input their level (beginner, intermediate, advanced), the number of days available for workouts, and their fitness goals (e.g., muscle gain, fat loss, overall fitness).
 
 ### How to Use:
-
+**Simple notebook**
 1. Open the **WorkoutPlan.ipynb** notebook.
 2. Run the notebook cells to execute the code.
 3. Follow the instructions to input your level, number of days, and goals.
 4. The notebook will generate a customized workout plan based on your inputs.
+**Interface**
+1. Upload the dataset from kraken
+2. Upload the **workout.py** file
+3. Open the **stremlit.ipynb** notbook
+4. Upload the files in the environement
+5. Run it
+
+![Image](enter_details.png)
+![Image](workout.png)
+
 
 ## Workout Data Analysis
 
